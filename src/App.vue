@@ -114,10 +114,10 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `冯小龙
+        fullMarkdown: `马一凡
 ----
 
-渣渣工程师，现在在[纳达姆科技]打杂。
+渣渣工程师，现在在打杂。
 
 技能
 ----
